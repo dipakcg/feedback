@@ -1,7 +1,7 @@
 # [Ask Mark a question][ask]
 # [View answered questions][answered]
 
-# About markjaquith/feedback
+## About markjaquith/feedback
 
 This is a quick little ask-me-anything type of repository. It is forked from 
 [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
