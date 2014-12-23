@@ -1,11 +1,10 @@
-# [Ask Mark a question][ask]
+# [Ask Dipak a question][ask]
 # [View answered questions][answered]
 
-## About markjaquith/feedback
+## About dipakcg/feedback
 
 This is a quick little ask-me-anything type of repository. It is forked from 
-[@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
-idea in lieu of traditional blog comments, email, and the like.
+[@markjaquith's feedback repo](https://github.com/markjaquith/feedback), originally commited by [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 I'm very bad at e-mail (and only one person benefits from my answer there), and Twitter is sometimes too short for more technical/involved discussions.
 
@@ -41,9 +40,9 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@markjaquith][twitter] on
+makes everyone more efficient. I'm [@dipakcg][twitter] on
 Twitter.
 
-[ask]: https://github.com/markjaquith/feedback/issues/new
-[answered]: https://github.com/markjaquith/feedback/issues?sort=created&direction=desc&state=closed&page=1
-[twitter]: https://twitter.com/markjaquith
+[ask]: https://github.com/dipakcg/feedback/issues/new
+[answered]: https://github.com/dipakcg/feedback/issues?sort=created&direction=desc&state=closed&page=1
+[twitter]: https://twitter.com/dipakcgajjar
