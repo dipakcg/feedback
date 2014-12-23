@@ -1,4 +1,4 @@
-# [Ask Dipak a question][ask]
+# [Ask Dipak C. Gajjar a question][ask]
 # [View answered questions][answered]
 
 ## About dipakcg/feedback
@@ -40,7 +40,7 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@dipakcg][twitter] on
+makes everyone more efficient. I'm [@dipakcgajjar][twitter] on
 Twitter.
 
 [ask]: https://github.com/dipakcg/feedback/issues/new
